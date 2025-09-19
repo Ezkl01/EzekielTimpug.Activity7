@@ -36,3 +36,4 @@ c:\Users\ezeki\MyFirstWeb.Timpug\RazorPagesMovie\obj\Debug\net9.0\RazorPagesMovi
 c:\Users\ezeki\MyFirstWeb.Timpug\RazorPagesMovie\obj\Debug\net9.0\RazorPagesMovie.genruntimeconfig.cache
 c:\Users\ezeki\MyFirstWeb.Timpug\RazorPagesMovie\obj\Debug\net9.0\ref\RazorPagesMovie.dll
 c:\Users\ezeki\MyFirstWeb.Timpug\RazorPagesMovie\obj\Debug\net9.0\compressed\5l4xcig889-x0nq448zaw.gz
+c:\Users\ezeki\MyFirstWeb.Timpug\RazorPagesMovie\obj\Debug\net9.0\RazorPagesMovie.sourcelink.json
